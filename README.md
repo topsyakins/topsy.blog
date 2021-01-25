@@ -11,6 +11,8 @@ via the system's adminisyration interface.
    Blog name    
                 
  
-|           |            | Search    |
+|           |            | Search    | 
 |-----------|------------|-----------|
+
+![VideoCapture_20200420-175242](https://user-images.githubusercontent.com/61983496/105679306-8ade8b80-5eee-11eb-9981-20c77f38b54a.jpg)
 
