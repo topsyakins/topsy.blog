@@ -8,6 +8,9 @@ via the system's adminisyration interface.
 
 ---
 # Company Blogs
-   Blog name    |                    |  Search  |
-                |--------------------|----------|
+   Blog name    
+                
+ 
+|           |            | Search    |
+|-----------|------------|-----------|
 
